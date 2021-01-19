@@ -1,0 +1,20 @@
+.titleMessage {
+  position: absolute;
+  width: 100%;
+  height: 250px;
+  top: 50%;
+  z-index: 5;
+  text-align: center;
+  margin-top: -125px;
+  font-family: "Lexend Deca", sans-serif;
+  font-weight: 100;
+  letter-spacing: 6px;
+}
+
+.main {
+  font-size: 60px;
+}
+
+.sub {
+  font-size: 25px;
+}

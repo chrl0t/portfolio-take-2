@@ -18,3 +18,24 @@
 .sub {
   font-size: 25px;
 }
+
+.section {
+  padding: 100px 0;
+}
+
+.aboutImage {
+  max-width: 90%;
+}
+
+.col-md-7 {
+  font-family: "Lexend Deca", sans-serif;
+}
+
+.aboutTitle {
+  font-size: 60px;
+  padding-bottom: 10px;
+}
+
+/* .aboutParagraph {
+  font-size: 20px;
+} */

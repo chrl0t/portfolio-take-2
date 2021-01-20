@@ -31,11 +31,11 @@
   font-family: "Lexend Deca", sans-serif;
 }
 
-.aboutTitle {
-  font-size: 60px;
+.title {
+  font-size: 50px;
   padding-bottom: 10px;
 }
 
-/* .aboutParagraph {
+.subTitle {
   font-size: 20px;
-} */
+}

@@ -40,6 +40,14 @@
   font-size: 50px;
   padding-bottom: 10px;
   font-family: "Lexend Deca", sans-serif;
+  color: black;
+}
+
+.portfolioTitle {
+  font-size: 50px;
+  padding-bottom: 10px;
+  font-family: "Lexend Deca", sans-serif;
+  color: white;
 }
 
 .subTitle {
@@ -170,9 +178,45 @@
 
 .email {
   font-family: "Lexend Deca", sans-serif;
-  font-size: 30px;
+  font-size: 25px;
 }
 
 #portfolio {
   background-color: #ffa07a;
+}
+
+.copyrightSection {
+  font-family: "Lexend Deca", sans-serif;
+  background-color: #ffa07a;
+  color: #ffff;
+  padding: 30px 5px;
+}
+
+.copyrightSection p {
+  margin: 0;
+}
+
+.link {
+  text-decoration: none;
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 25px;
+  color: black;
+}
+
+.link:hover {
+  text-decoration: none;
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 25px;
+  color: #ffa07a;
+}
+
+.contactTitle {
+  font-size: 50px;
+  padding-bottom: 10px;
+  font-family: "Lexend Deca", sans-serif;
+  color: black;
+}
+
+.logo {
+  width: 1px;
 }
